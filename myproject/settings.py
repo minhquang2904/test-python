@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-mmdp+lxq-*)=#6i#pwww0b4es^u3)&ew12--&b7uhxt2k9lagh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://test-python-taupe.vercel.app/', '127.0.0.1']
 
 
 # Application definition
